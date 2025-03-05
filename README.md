@@ -1,4 +1,4 @@
-# PySPADE
+# PySPADE-demo
 Proof of concept python implementation of the functional encryption algorithm SPADE which allows for partial and selective decryption of encrypted contents.
 ## Notice
 This code is only meant to be a proof of concept and as such should not be considered secure for use. Client code is missing important features and should only be used for testing purposes.
